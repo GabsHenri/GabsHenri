@@ -1,16 +1,30 @@
-### Hi there 👋
+# DIO | Resumos Git e Github
 
-<!--
-**GabsHenri/GabsHenri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repositório para armazenar resumos a respeito de Git e Github
+do curso "Versionamento de Código com Git e Github"
+[Digital Innovation One](https://www.dio.me/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚Documentação
+[Documentação Git]()
+[Documentação Github]()
+
+
+
+## 💻 Resumo das Aulas
+
+| Aulas | Resumos |
+|-------|---------|
+| Gravando alterações | Alterações 1
+
+| Repositórios | Data de Alteração |
+|--------------|-------------------|
+| commit inicial |     06/10/2023  | 
+
+
+
+
+## 📱 Mídia
+
+| LinkedIn | 
+|----------|
