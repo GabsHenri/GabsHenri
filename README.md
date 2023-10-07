@@ -1,30 +1,36 @@
-# DIO | Resumos Git e Github
+# Gabriel Henrique | Tecnólogo em Análise e Desenvolvimento de Sistemas
+Olá!
+👋🏼
 
-Repositório para armazenar resumos a respeito de Git e Github
-do curso "Versionamento de Código com Git e Github"
-[Digital Innovation One](https://www.dio.me/)
+Meu chamo Gabriel Henrique, tenho 23 anos, moro em Ceilândia - DF.
+Sou Cristão, toco guitarra, gosto de ler sobre aventuras e assistir filmes de super-heróis. Sou fã de animes
+ e o meu preferido é One Piece e meu personagem favorito no anime é o Zoro.
+
+## 📚**Formação Acadêmica**
+| Universidade de Brasília | Entrada - Saída |
+| ---|----|
+|Bacharel em Saúde Coletiva | 2018/2 - Atualmente |
 
 
-## 📚Documentação
-[Documentação Git]()
-[Documentação Github]()
+| Universidade Estácio de Sá | Entrada - Saída |
+| ---|----|
+| Análise e Desenvolvimento de Sistemas | 2023/1 - Atualmente |
 
+## 💻**Formação Profissional**
 
-
-## 💻 Resumo das Aulas
-
-| Aulas | Resumos |
+| TRF 1° Região | Entrada - Saída |
 |-------|---------|
-| Gravando alterações | Alterações 1
-
-| Repositórios | Data de Alteração |
-|--------------|-------------------|
-| commit inicial |     06/10/2023  | 
+| Estágio | 2016 - 2017 |
 
 
+| Elicon Contabilidade | Entrada - Saída |
+| ---|----|
+| Auxiliar Administrativo| 2023 - Atualmente |
 
 
-## 📱 Mídia
 
-| LinkedIn | 
-|----------|
+
+## 📱**Mídia**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-henrique-programador/)
+🔗 [Instagram](https://www.instagram.com/rochagabriel.r/)
